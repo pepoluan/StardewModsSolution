@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:pepoluan/GenericModConfigMenu.git
 	branch = master
-	commit = 5a748c31774cde5e477188153a1c76feda2fb8e7
-	parent = 9097294a844c9a266a416d4166cfa3530a9e31bc
+	commit = 90376128e74da0aab528ebb89b08ebf15a110706
+	parent = f55aaf01afb3a2c84192943af0e3110e53c61e00
 	method = merge
 	cmdver = 0.4.3
