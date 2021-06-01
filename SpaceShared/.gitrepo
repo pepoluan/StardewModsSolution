@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:pepoluan/SpaceShared.git
+	branch = master
+	commit = b5df1532c0f4cf0ca4d8c43edf0c17ee6955dcb6
+	parent = dd3e4f60a769145a96bf74755a8d8a10075da3e9
+	method = merge
+	cmdver = 0.4.3
