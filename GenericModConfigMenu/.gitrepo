@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:pepoluan/GenericModConfigMenu.git
+	branch = master
+	commit = 5a748c31774cde5e477188153a1c76feda2fb8e7
+	parent = 9097294a844c9a266a416d4166cfa3530a9e31bc
+	method = merge
+	cmdver = 0.4.3
